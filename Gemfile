@@ -17,5 +17,4 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'acts_as_paranoid', git: 'git@github.com:ActsAsParanoid/acts_as_paranoid.git', branch: 'master'
 gem 'angular-rails-templates', '~> 0.1.3'
