@@ -19,3 +19,4 @@ group :development, :test do
 end
 
 gem 'angular-rails-templates', '~> 0.1.3'
+gem "non-stupid-digest-assets"
