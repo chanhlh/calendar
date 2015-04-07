@@ -17,7 +17,6 @@
 //= require angular
 //= require angular-route
 //= require angular-rails-templates
-// require ui-bootstrap-tpls-0.13.0-SNAPSHOT
 //= require bootstrap-v2.3.2
 //= require bootstrap-datepicker
 //= require fullcalendar/fullcalendar.min
