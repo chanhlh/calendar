@@ -1,0 +1,1 @@
+this.myApp = angular.module('myApp', ['templates', 'ngRoute']);
